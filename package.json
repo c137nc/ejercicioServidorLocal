@@ -1,0 +1,21 @@
+{
+  "name": "api-ejemplovideoclase",
+  "version": "1.0.0",
+  "description": "api creada segun el video de la clase de laboratorio de programacion y lenguajes",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api-video",
+    "rest",
+    "http"
+  ],
+  "author": "Nadia Isabel Catan",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
